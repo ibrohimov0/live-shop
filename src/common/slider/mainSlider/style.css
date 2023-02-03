@@ -1,0 +1,10 @@
+.mainSlider div{
+    background-color: var(--purpil);
+    height: 500px;
+    width: 95%;
+    margin: 0 auto;
+}
+.mainSlider div h3{
+    color: var(--white);
+    font-size: 10vw;
+}
